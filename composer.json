@@ -1,5 +1,5 @@
 {
-    "name": "josborne/phpspec-lumen",
+    "name": "aprilpnguyen/phpspec-lumen",
     "description": "Test your Lumen applications with PhpSpec",
     "keywords": ["laravel", "phpspec", "testing", "test", "lumen"],
     "homepage": "https://github.com/josborne/phpspec-lumen",
